@@ -1,0 +1,18 @@
+# Python build
+*.pyc
+
+# Temp files
+*~
+
+#Files
+hardware_config.cfg
+
+#Dirfiles
+tonelists
+
+test
+
+dirfiles
+
+#pcp
+pcp
